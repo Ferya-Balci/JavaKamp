@@ -1,0 +1,8 @@
+package hafta3Odev1;
+
+public class Employee extends Person {
+
+	//Çalýþanlar
+	
+	double salary;//maaþ
+}

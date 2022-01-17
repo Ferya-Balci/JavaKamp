@@ -1,0 +1,19 @@
+package hafta3Odev2;
+
+public class Instructor extends User {
+
+	
+	String givenCourses;
+	
+	public void Product() {
+		
+	}
+	
+	 public Instructor(String givenCourses) {
+			super();
+			this.givenCourses = givenCourses;
+		}
+
+	
+	
+}

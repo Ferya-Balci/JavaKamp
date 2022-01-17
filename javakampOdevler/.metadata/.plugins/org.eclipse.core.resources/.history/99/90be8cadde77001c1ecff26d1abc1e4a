@@ -1,0 +1,15 @@
+package polymorphismDemo;
+
+public class CustomerManager {
+
+	public void Add() {
+		
+		System.out.println("Müþteri eklendi.");
+		//Müþteriyi kim ekledi görmek için log yazýyoruz.
+		DatabaseLogger logger=new DatabaseLogger();
+		logger.Log("Log mesajý");
+	
+	
+	}
+	
+}

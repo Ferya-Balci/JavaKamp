@@ -1,0 +1,18 @@
+package hafta3Odev2;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Instructor egitmen1=new Instructor();
+		egitmen1.email="egitman1@gmail.com";
+		
+		Student student1=new Student();
+		student1.email="student1@gmail.com";
+		
+		UserManager userManager=new UserManager();
+		
+
+	}
+
+}
